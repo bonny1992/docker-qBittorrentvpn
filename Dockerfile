@@ -2,8 +2,8 @@
 #
 # Version 1.8
 
-FROM ubuntu:20.04
-MAINTAINER MarkusMcNugen
+FROM ubuntu:22.04
+MAINTAINER Bonny1992
 
 VOLUME /downloads
 VOLUME /config
